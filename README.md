@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Leopard" 
        description="photo by Cora" 
        license="public domain" 
-       url="https://live.staticflickr.com/65535/47671786262_aaf7a7ce92_k.jpg">
+       url="https://live.staticflickr.com/65535/52438189799_cc6e82078d_h.jpg">
 
 ## Map
 

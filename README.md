@@ -18,7 +18,7 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://live.staticflickr.com/65535/47671786262_aaf7a7ce92_k.jpg">
 
 # Basic usage
 
@@ -28,8 +28,8 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Leopard" 
+       description="photo by Cora" 
        license="public domain" 
        url="https://live.staticflickr.com/65535/47671786262_aaf7a7ce92_k.jpg">
 

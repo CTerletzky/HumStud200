@@ -40,7 +40,7 @@ He was adopted from a rescue based in Burlington, Wisconsin.
 
 Leopard has been helping Cora with school work since she started third grade in September 2008. He is occassionaly not super helpful. In spring 2023 he will have been with Cora through her bachlor degree and the following fall he will be helping Cora with her masters degree. 
 <param ve-image 
-       url="https://live.staticflickr.com/65535/47671786262_aaf7a7ce92_k.jpg">
+       url="https://live.staticflickr.com/65535/52438189799_cc6e82078d_h.jpg">
 <param ve-map center="Q1016638" zoom="11">
 
 # References

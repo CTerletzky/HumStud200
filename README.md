@@ -3,7 +3,7 @@
 <param ve-config 
        title="Leopard"
        author="Cora"
-       banner="https://drive.google.com/file/d/1y0FXDdP4v4kyjktfi5Za5yTdu1woLu4U/view?usp=sharing" 
+       banner="https://photos.app.goo.gl/fD6QNaqDG6tPjJnz5" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and

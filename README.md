@@ -29,20 +29,19 @@ Leopard is a fourteen year old tabby cat. Cora's parents adopted him along with 
        label="Leopard" 
        description="photo by Cora" 
        license="public domain" 
-       url="https://live.staticflickr.com/65535/52438189799_cc6e82078d_h.jpg">
+       url="https://live.staticflickr.com/65535/52438436038_66876cc134_k.jpg">
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+He was adopted from a rescue based in Burlington, Wisconsin. 
 <param ve-map center="Q1016638" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
 Leopard has been helping Cora with school work since she started third grade in September 2008. He is occassionaly not super helpful. In spring 2023 he will have been with Cora through her bachlor degree and the following fall he will be helping Cora with her masters degree. 
 <param ve-image 
-       url="https://live.staticflickr.com/65535/52438436038_66876cc134_k.jpg">
-<param ve-map center="Q36600" zoom="11">
+       url="https://live.staticflickr.com/65535/47671786262_aaf7a7ce92_k.jpg">
+<param ve-map center="Q1016638" zoom="11">
 
 # References
 

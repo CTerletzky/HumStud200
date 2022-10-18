@@ -37,14 +37,15 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="-88.2476806640625,
+          42.67031977251906" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://live.staticflickr.com/65535/52438436038_66876cc134_k.jpg">
+       url="https://live.staticflickr.com/65535/52438436038_66876cc134_k.jpg">
 <param ve-map center="Q36600" zoom="11">
 
 # References

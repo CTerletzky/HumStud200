@@ -24,9 +24,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Leopard is a fourteen year old tabby cat. Cora's parents adopted him along with his two littermates for their three daughters in August 2008. He is the only remaining cat and is now is an old man with arthritis. 
 <param ve-image 
        label="Leopard" 
        description="photo by Cora" 
@@ -41,12 +39,11 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 ## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+Leopard has been helping Cora with school work since she started third grade in September 2008. He is occassionaly not super helpful. In spring 2023 he will have been with Cora through her bachlor degree and the following fall he will be helping Cora with her masters degree. 
 <param ve-image 
        url="https://live.staticflickr.com/65535/52438436038_66876cc134_k.jpg">
 <param ve-map center="Q36600" zoom="11">
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
